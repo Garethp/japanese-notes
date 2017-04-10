@@ -18,16 +18,16 @@ The は particle indicated the *topic* of the sentance. It's similar to saying "
 The も article is used to include another topic in to the sentance. A rough translation would be to
 mean "also". For exmaple:
 
-ボブ　：　アリスは学生？
+ボブ　：　アリスは学生？  
 アリス：　うん、トムも学生
 
 However it would not make sense to try and say "I am a student, also Tom is not a student", so in that
 case you wouldn't use も, but the following would be more correct.
 
-ボブ　：　アリスは学生？
+ボブ　：　アリスは学生？  
 アリス：　うん、でもトムは学生じゃない。
 
 However the following would make sense.
 
-ボブ　：　アリスは学生？
+ボブ　：　アリスは学生？  
 アリス：　ううん、トムも学生じゃない
