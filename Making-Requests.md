@@ -14,3 +14,28 @@ In casual speach, you can drop the ください part, since it can usually be in
 
 日本語ではなす
 
+The casual (and slightly feminine) version is ちょうだい, which behaves the same way gramatically
+
+### なさい
+なさい is the honorific conjugation of する. It's a gentle, but firm way of telling someone to do something. To use it, it's
+necessary to attach it to a verb, as it can't be used stand-alone. Unlike ください, you attach it to the Stem of the verb,
+not it's て form. It's casual version simply drops the さい
+
+食べなさい
+食べな
+ここにすわりなさい
+
+### Imperatives
+Though not used often (as it's considered impolite), you can change a verb in it's imperative form as such
+
+ * For る-verbs, replace the る with ろ
+ * For the う-verbs, change the last character from an /u/ sound to an /e/ sound.
+ * Exceptions
+  * する -> しる
+  *  くる -> こい
+  * くれる -> くれ
+
+To command the negative of a verb, simply add な to the verb. The difference between this and the casual version of なさい is 
+that the verb for なさい is first conjugated in to it's stem, while this verb isn't conjugated at all
+
+食べるな
