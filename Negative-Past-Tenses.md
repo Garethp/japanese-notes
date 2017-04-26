@@ -1,4 +1,4 @@
-## Conjugating Verbs
+## Negative And Past Tenses
 
 ### Conjugating to Negatives
 
