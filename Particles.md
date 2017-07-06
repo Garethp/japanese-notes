@@ -31,3 +31,19 @@ However the following would make sense.
 
 ボブ　：　アリスは学生？  
 アリス：　ううん、トムも学生じゃない
+
+### を Particle
+The を Particle is the Direct Object Particle. It indicates that an action is done directly to the verb before it. For example:
+
+日本語を勉強する
+
+Means to study Japanese. The を article indicates that 日本語 is what the verb is acting direclty on
+
+### に Particle
+The に Particle indicates that something is done *towards* an object, such as　ボブは日本に行った, Bob went *to* Japan. However, it's also used outside of direction verbs. For example, you say that something is somewhere because it exists towards that place. Such as 猫は部屋にいる, which would literally translate to "About the cat, it exists towards the room" but actually means "The cat is in the room".
+
+### へ Particle
+Unlike the に Particle, the へ Particle only indicates that the noun is the general direction that the verb is acting on, not that it's the final destination. Such as going in that direction, or going towards victory. When used as a particle, it's pronounced as え, not へ.
+
+### で Particle
+This is the context particle, such as where an action took place. Such as バスで帰る
